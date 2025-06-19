@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enesozkanzkn@gmail.com**
 
-- ⚡ Fun fact **I am responsible, motivated and disciplined**
+- ⚡ Fun fact **I am responsible, motivated and disciplined.**
 
 
 <p align="left">
