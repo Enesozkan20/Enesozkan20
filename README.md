@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **new technologies (Python,...) and I'm still improving myself.**
 
-- 👨‍💻 All of my projects are available at [my Github profile](my Github profile)
+- 👨‍💻 All of my projects are available at https://github.com/Enesozkan20
 
 - 💬 Ask me about **React JS,React Native,Javascript**
 
