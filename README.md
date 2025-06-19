@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Enesozkan20
 
-- 💬 Ask me about **React JS,React Native,Javascript**
+- 💬 Ask me about **React JS and Javascript**
 
 - 📫 How to reach me **enesozkanzkn@gmail.com**
 
