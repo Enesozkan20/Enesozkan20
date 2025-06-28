@@ -27,8 +27,6 @@
 
 ![](https://github-trophies.vercel.app/?Username=Enesozkan20&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Enesozkan20&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 [![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Followers,Repositories,Experience)](https://github.com/Enesozkan20)
