@@ -25,10 +25,10 @@
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
 
-[![Repositories](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories)](https://github.com/Enesozkan20?tab=repositories)
 
 
-[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,MultiLanguage,Followers,Repositories)](https://github.com/Enesozkan20)
+
+[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Multilanguage,Followers,Repositories)](https://github.com/Enesozkan20)
 
 
 ## 📊 Github Stats
