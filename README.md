@@ -24,6 +24,9 @@
 ## 🏆 GitHub Trophies and badges
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
+[Top Contributor](https://img.shields.io/badge/Top-Contributor-brightgreen?style=flat-square)
+![Bug Squasher](https://img.shields.io/badge/Bug-Squasher-red?style=flat-square)
+![Code Ninja](https://img.shields.io/badge/Code-Ninja-blue?style=flat-square)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits)
 
@@ -33,4 +36,4 @@
 ## 📆 GitHub Activity Graph
 [![Enes's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enesozkan20&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![Ziyaretçi](https://komarev.com/ghpvc/?username=Enesozkan20&label=Profil+Ziyaretleri&color=blue&style=flat)
+
