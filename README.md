@@ -27,5 +27,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesozkan20&layout=compact&theme=gruvbox)
 
 
-![snake gif](https://github.com/Enesozkan20/Enesozkan20/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Enesozkan20/blob/output/github-contribution-grid-snake.svg)
 
