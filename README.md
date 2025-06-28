@@ -27,5 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesozkan20&layout=compact&theme=gruvbox)
 
 
-![snake gif](https://github.com/Enesozkan20/blob/output/github-contribution-grid-snake.svg)
 
+![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
+![Top Follower](https://img.shields.io/badge/-Top%20Follower-yellow?style=for-the-badge&logo=github)
+![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
