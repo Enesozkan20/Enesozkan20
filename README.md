@@ -28,7 +28,7 @@
 
 
 
-[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Languages,Followers,Repositories,Experience,Organization)](https://github.com/Enesozkan20)
+[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Languages,Followers,Repositories,Experience,Organizations)](https://github.com/Enesozkan20)
 
 
 ## 📊 Github Stats
