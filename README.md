@@ -35,19 +35,6 @@
 
 
 <p align="center">
-  <b>
-    <span style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-                  -webkit-background-clip: text;
-                  color: transparent;
-                  animation: rainbow 3s infinite;">
-      Enesozkan20 - Süper Repo Creator 🚀
-    </span>
-  </b>
+  <img src="https://media.giphy.com/media/3o7TKtd0Iu9Ne8YV92/giphy.gif" width="200" />
 </p>
 
-<style>
-@keyframes rainbow {
-  0% {background-position: 0%;}
-  100% {background-position: 100%;}
-}
-</style>
