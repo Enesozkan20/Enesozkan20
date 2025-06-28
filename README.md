@@ -32,3 +32,5 @@
 
 ## 📆 GitHub Activity Graph
 [![Enes's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enesozkan20&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![Ziyaretçi](https://komarev.com/ghpvc/?username=Enesozkan20&label=Profil+Ziyaretleri&color=blue&style=flat)
