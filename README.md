@@ -23,6 +23,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Github Stats
+## Github Stats
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enesozkan20&show_icons=true&theme=gruvbox&hide=issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesozkan20&layout=compact&theme=gruvbox)
 
