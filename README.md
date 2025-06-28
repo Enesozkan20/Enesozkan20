@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits,PullRequest,Followers,Following,Issues)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits)]
 ## Github Stats
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enesozkan20&show_icons=true&theme=gruvbox&hide=issues)
 
