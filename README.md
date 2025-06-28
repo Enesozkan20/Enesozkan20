@@ -35,5 +35,5 @@
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" width="50" />
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="350" />
 </p>
