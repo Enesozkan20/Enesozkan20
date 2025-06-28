@@ -25,7 +25,7 @@
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits)  ![First Contribution](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&no-frame=true&column=4&row=1&margin-w=7&margin-h=7)
+ ![First Contribution](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&no-frame=true&column=4&row=1&margin-w=7&margin-h=7)
 
 ## 📊 Github Stats
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enesozkan20&show_icons=true&theme=gruvbox&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesozkan20&layout=compact&theme=gruvbox)
