@@ -21,9 +21,5 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 🔥 **Followers:** ![Followers](https://img.shields.io/github/followers/Enesozkan20?label=Takipçiler&style=social)
-- 🌐 **Following:** ![Following](https://img.shields.io/github/following/Enesozkan20?label=Takip+ettiklerim&style=social)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
