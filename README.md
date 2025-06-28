@@ -24,9 +24,6 @@
 ## 🏆 GitHub Trophies and badges
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
-[Top Contributor](https://img.shields.io/badge/Top-Contributor-brightgreen?style=flat-square)
-![Bug Squasher](https://img.shields.io/badge/Bug-Squasher-red?style=flat-square)
-![Code Ninja](https://img.shields.io/badge/Code-Ninja-blue?style=flat-square)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories,Commits)
 
@@ -37,3 +34,20 @@
 [![Enes's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enesozkan20&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
+<p align="center">
+  <b>
+    <span style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+                  -webkit-background-clip: text;
+                  color: transparent;
+                  animation: rainbow 3s infinite;">
+      Enesozkan20 - Süper Repo Creator 🚀
+    </span>
+  </b>
+</p>
+
+<style>
+@keyframes rainbow {
+  0% {background-position: 0%;}
+  100% {background-position: 100%;}
+}
+</style>
