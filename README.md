@@ -25,10 +25,13 @@
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
 
+![](https://github-trophies.vercel.app/?username=mehmetkahya0&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mehmetkahya0&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-
-[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Languages,Followers,Repositories,Experience,Organizations)](https://github.com/Enesozkan20)
+[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Followers,Repositories,Experience)](https://github.com/Enesozkan20)
 
 
 ## 📊 Github Stats
