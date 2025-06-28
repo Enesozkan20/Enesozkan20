@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc70,100:ff5e62&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Enes Özkan</h1>
 <h2 align="center">A passionate frontend developer from Türkiye and Germany</h3>
 
