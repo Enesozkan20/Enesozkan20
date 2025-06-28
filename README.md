@@ -26,10 +26,10 @@
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
 
 [![Repositories](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Repositories)](https://github.com/Enesozkan20?tab=repositories)
-[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits)](https://github.com/Enesozkan20)
-[![Followers](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Followers)](https://github.com/Enesozkan20?tab=followers)
-[![MultiLanguage](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=MultiLanguage)](https://github.com/Enesozkan20)
-[![Experience](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Experience)](https://github.com/Enesozkan20)
+
+
+[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,MultiLanguage,Followers,Repositories)](https://github.com/Enesozkan20)
+
 
 ## 📊 Github Stats
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enesozkan20&show_icons=true&theme=gruvbox&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesozkan20&layout=compact&theme=gruvbox)
