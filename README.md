@@ -33,4 +33,4 @@
 ## 📆 GitHub Activity Graph
 [![Enes's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enesozkan20&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Enesozkan20&repo=super-repo)](https://github.com/Enesozkan20/super-repo)
+
