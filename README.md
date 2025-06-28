@@ -33,7 +33,6 @@
 ## 📆 GitHub Activity Graph
 [![Enes's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enesozkan20&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="350" />
+  <img src="https://i.gifer.com/embedded/download/6A6Q.gif" width="150" />
 </p>
