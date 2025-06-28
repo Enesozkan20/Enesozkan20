@@ -25,7 +25,7 @@
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
 
-![](https://github-trophies.vercel.app/?Enesozkan20&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?Username=Enesozkan20&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Enesozkan20&icon=0&color=1)](https://visitcount.itsvg.in)
