@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Enes Özkan</h1>
 <h2 align="center">A passionate frontend developer from Türkiye and Germany</h3>
 
-- 🌱 I’m currently learning **new technologies (Python,JavaScript,Git,SASS...) and I'm still improving myself.**
+- 🌱 I’m currently learning **new technologies (Python, JavaScript, Git, SASS...) and I'm still improving myself.**
 
 - 👨‍💻 All of my projects are available at https://github.com/Enesozkan20
 
