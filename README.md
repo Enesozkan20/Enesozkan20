@@ -23,7 +23,6 @@
 
 ## 🏆 GitHub Badges
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
-
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
 
 
