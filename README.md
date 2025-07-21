@@ -25,7 +25,8 @@
 ![Super Repo Creator](https://img.shields.io/badge/-Super%20Repo%20Creator-blueviolet?style=for-the-badge&logo=github)
 
 ![Code Lover](https://img.shields.io/badge/-Code%20Lover-green?style=for-the-badge&logo=codeforces)
-[![Commits](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Followers,Repositories,Experience)]
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Enesozkan20&theme=gruvbox&title=Commits,Followers,Repositories,Experience)
 
 
 ## 📊 Github Stats
