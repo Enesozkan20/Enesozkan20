@@ -5,7 +5,7 @@
 <h2 align="center">A passionate frontend developer from Türkiye and Germany</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning new technologies (Python, Redux, Trello, Firebase...) and My goal is to become Full-Stack Developer and Mobile Developer.<br><br>👨‍💻 All of my projects are available at https://github.com/Enesozkan20<br><br>💬 Ask me about React JS and Python<br><br>📫 How to reach me enesozkanzkn@gmail.com<br><br>⚡ Fun fact I am responsible, motivated and disciplined.
+🌱 I’m currently learning new technologies (Python, Redux, Trello, Firebase...) and My goal is to become <strong> Full-Stack Developer </strong> and <strong>Mobile Developer.</strong> <br><br>👨‍💻 All of my projects are available at https://github.com/Enesozkan20<br><br>💬 Ask me about React JS and Python<br><br>📫 How to reach me enesozkanzkn@gmail.com<br><br>⚡ Fun fact I am responsible, motivated and disciplined.
 
 
 ## 🌐 Socials:
